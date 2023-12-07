@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "블로그 만들기#front[1] Vite를 이용하여 Vue.js 프로젝트 생성하기"
+title: "자산관리 웹사이트 만들기#front[1] Vite를 이용하여 Vue.js 프로젝트 생성하기"
 categories: vue
 tags: [vite, blog, vue3, pinia]
 toc: true

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "블로그 만들기#front[2] 프로젝트에 bootstrap 기반 라이브러리 MDB(MDBootstrap) 설치하기"
+title: "자산관리 웹사이트 만들기#front[2] 프로젝트에 bootstrap 기반 라이브러리 MDB(MDBootstrap) 설치하기"
 categories: vue
 tags: [vite, blog, vue3, bootstrap, library, plugin]
 ---
