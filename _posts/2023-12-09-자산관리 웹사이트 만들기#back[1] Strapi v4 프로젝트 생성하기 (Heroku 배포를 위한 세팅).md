@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "자산관리 웹사이트 만들기#back[1] Strapi v4 프로젝트 생성하기 (Heroku 배포를 위한 세팅)"
+title: "자산관리 웹사이트 만들기#back[1] Strapi v4 프로젝트 생성하기 (Heroku 배포를 위한 세팅 실패기)"
 categories: strapi
 tags: [strapi, heroku, postgresql]
 ---
 
-실패기 입니다!! postgresql의 무료 플랜이 없어요.. 🤣
+### 실패기 입니다!! postgresql의 무료 플랜이 없어요.. 🤣
 
 웹사이트에서 필요한 데이터베이스와 백엔드 api를 스트라피를 통해서 구현해보려고 합니다!
 
@@ -69,4 +69,14 @@ git add .
 git commit -m "Initial Commit"
 ```
 
-깃 저장소에 푸시했으면 다음에는 postgresql 데이터베이스 셋업과 heroku 배포까지 해보겠습니다!😙
+깃 저장소에 푸시했으면 다음에는 postgresql 데이터베이스 셋업과 heroku 배포까지 해보려고 했는데,
+
+상단에 써 놓을 것처럼 실패기 입니다!! postgresql의 무료 플랜이 없어졌더라고요.. 🤣
+그래서 저는 네이버클라우드에서 1년간 무료로 사용할 수 있는 마이크로 서버에 올리기로 결정하였습니다!
+
+https://ramen4598.tistory.com/85
+
+위의 블로그를 참고해서 가입, 세팅을 하였고,
+다음 글에서는 원격 서버 접속 방법과 스트라피를 설치하여 테이블을 생성하는 것까지 해보겠습니다!
+
+
