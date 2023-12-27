@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "네이버클라우드"
+title: "네이버클라우드 Simple & Easy Notification Service"
 categories: api
-tags: ["네이버클라우드, 카카오톡, 알림톡, sms"]
+tags: ["네이버클라우드", "카카오톡", "알림톡", sms"]
 ---
 
 네이버클라우드 Simple & Easy Notification Service
