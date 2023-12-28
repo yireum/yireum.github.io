@@ -5,6 +5,11 @@ categories: api
 tags: ["네이버클라우드", "카카오톡", "알림톡", sms"]
 ---
 
+개발 시 웹사이트에서 sms나 카카오 알림톡 등을 보내는 기능이 필요한 경우가 있는데요,
+카카오톡에서 제공하는 알림톡보다 더 쉽고 가이드가 잘 되어 있는 네이버클라우드의 Simple & Easy Notification Service 서비스입니다!
+
+해외 sms도 가능해서 많은 사이트에서도 사용하고 있어서 가이드를 정리해봤어요~ 😁
+
 네이버클라우드 Simple & Easy Notification Service
 https://www.ncloud.com/product/applicationService/sens
 
