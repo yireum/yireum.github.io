@@ -5,7 +5,10 @@ categories: vue
 tags: [vite, blog, vue3, pinia]
 toc: true
 author_profile: false
+# sidebar:
+#   nav: "docs"
 ---
+
 
 1. 프로젝트 생성
 
